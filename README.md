@@ -7,7 +7,7 @@ Cartel de película de terror para la participación en el challenge de CodePen 
 
 #CodePenChallenge: Halloween Movies 
 
-Aquí os presento mi propuesta para el **#CodePenChallenge: Halloween Movies** 🎃. Inspirado en el género de terror, creé un cartel interactivo para la película ficticia *Terrifier Navidad*. Este cartel mezcla el ambiente navideño con una atmósfera de horror que incluye efectos de nieve, niebla, y un payaso espeluznante.
+Aquí os presento mi propuesta para el **#CodePenChallenge: Halloween Movies** 🎃. Inspirado en el género de terror, creé un cartel interactivo para la película *Terrifier 3*. Este cartel mezcla el ambiente navideño con una atmósfera de horror que incluye efectos de nieve, niebla, y un payaso espeluznante.
 
 🖼️ Proyecto
 
